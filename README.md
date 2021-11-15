@@ -1,4 +1,4 @@
-# namankhuranasite
+# namankhurana.org
 
 My own personal website, made through HTML, CSS, and Javascript.
 
