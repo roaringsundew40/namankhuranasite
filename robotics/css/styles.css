@@ -4921,7 +4921,7 @@ body.search-is-visible {
 }
 
 .blog-post__date::before {
-    content: "Published";
+    content: "Seasons Participated";
 }
 
 .blog-post__cat {
